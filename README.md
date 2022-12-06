@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anirudh-Dhoundiyal
-- 👀 I’m interested in solving problems, I hate when code donsen't work, but i kinda love it too.
-- If that make any sense. 
+- 👀 I’m interested in solving problems.
 - 🌱 I’m currently learning Node.js
 - 📫 You can always email me at anirudh.dhoundiyal@outlook.com
 
